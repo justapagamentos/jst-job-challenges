@@ -1,6 +1,6 @@
 # Desafio Front-End Developer Justa
 
-Que tal fazer parte de um time com atitude e participar de uma das startups de pagamento mais disrupções no mercado?
+Que tal fazer parte de um time com atitude e participar de uma das startups de pagamento mais disruptivas do mercado?
 
 ## Sobre a Justa
 
