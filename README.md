@@ -15,11 +15,6 @@ Somos uma Fintech localizada em São Paulo e Recife com tecnologias que ajudam n
 Criar uma Single Page Application de um dashboard com duas páginas (Dashboard e clientes).
 Os arquivos estão na pasta assets.
 
-_Atalhos_
-
-- [Dashboard](./assets/Dashboard.png);
-- [Clientes](./assets/Dashboard.png);
-
 ## O que usar?
 
 - React, Vue, Angular 2+
@@ -31,8 +26,22 @@ _Atalhos_
 **Pontos extras para**:
 
 - Testes (Jest, Mocha, Chai...)
-- Caso use React, Styled Components
-- Caso use React + Redux, Redux Saga ou Redux Thunk
+- Caso use React: Styled Components
+- Caso use React + Redux: Redux Saga ou Redux Thunk.
+
+## Assets
+
+- [Dashboard](./assets/Dashboard.png);
+- [Clientes](./assets/Dashboard.png);
+
+- **Cor Primária**
+
+  - HEX: _#076E95_
+  - RGB: _7, 110, 149_
+
+- Fontes:
+  - Ionicons (ícones)
+  - Exo 2 Regular (Menu: 15px; Dropdown usuário: 17px e 10px;)
 
 ## Avaliação
 
