@@ -1,49 +1,24 @@
 # Desafio Front-End Developer Justa
 
-Que tal fazer parte de um time com atitude e participar de uma das startups de pagamento mais disruptivas do mercado?
+Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
 
-## Sobre a Justa
+## Descrição
 
-Somos uma Fintech localizada em São Paulo e Recife com tecnologias que ajudam nossos clientes e revendedores a capturarem vendas em Cartões de Crédito / Débito.
+Criar uma Single Page Application (SPA) de um dashboard com gráficos (ChartJS, ApexCharts, D3, etc.) e uma tabela para a exibição de dados (realizar requisições HTTP para exibir os dados na tabela [Public Apis](https://github.com/public-apis/public-apis)).
 
-## Sobre a vaga
+Você deve fazer um fork do projeto e deixar publico para que possamos analisar commits e o processo de desenvolvimento.
 
-- [Mais informações aqui](https://github.com/frontendbr/vagas/issues/1624).
+Links com conteúdo para alguns dos temas citados serão fornecidos no fim da descrição do desafio.
 
-## O desafio
+### Requisitos
 
-Criar uma Single Page Application de um dashboard com duas páginas (Dashboard e clientes).
-Os arquivos estão na pasta assets.
+- Algum framework/biblioteca, como React, Vue, Angular 2+ ou JavaScript Vanilla.
+- Biblioteca para requisições HTTP (ex.: Axios), ou Fetch API.
+- Algum pré-processador CSS, como SASS, LESS, ou algum outro.
+- Ser responsivo
+- Usar algum linter para o JavaScript/TypeScript (ESLint, TSLint).
 
-## O que usar?
-
-- React, Vue, Angular 2+
-- Qualquer biblioteca de estilos (Bootstrap, Foundation, Bulma...)
-- Flux (Redux, Vuex, etc)
-- Lib para rotas (React Router, Vue Router....)
-- Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
-
-**Pontos extras para**:
-
-- Testes (Jest, Mocha, Chai...)
-- Caso use React: Styled Components
-- Caso use React + Redux: Redux Saga ou Redux Thunk.
-
-## Assets
-
-- [Dashboard](./assets/Dashboard.png);
-- [Clientes](./assets/Dashboard.png);
-
-- **Cor Primária**
-
-  - HEX: _#076E95_
-  - RGB: _7, 110, 149_
-
-- Fontes:
-  - Ionicons (ícones)
-  - Exo 2 Regular (Menu: 15px; Dropdown usuário: 17px e 10px;)
-
-## Avaliação
+### Avaliação
 
 Entre os critérios de avaliação estão:
 
@@ -52,3 +27,13 @@ Entre os critérios de avaliação estão:
 - Documentação de código
 - Documentação do projeto (readme)
 - Performance
+
+### Links Úteis
+
+- [Design Patterns](https://github.com/beatrizacbs/java-design-patterns-pocs)
+- [GitFlow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
+- [MVVM](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b), [MVI](https://medium.com/mindorks/mvi-a-reactive-architecture-pattern-45c6f5096ab7), [MVC](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6), [MVP](https://medium.com/cr8resume/make-you-hand-dirty-with-mvp-model-view-presenter-eab5b5c16e42)
+- [Teste](https://developer.android.com/training/testing/fundamentals), [Junit](https://medium.com/grtech-student-blog/getting-started-with-junit-92ab1ab91c93), [Espresso](https://developer.android.com/training/testing/espresso)
+- [Dagger2](https://codingwithmitch.com/courses/dagger22-android/)
+- [Design de aplicações](https://material.io/design/)
+- [Clean Code](https://simpleprogrammer.com/clean-code-principles-better-programmer/)
