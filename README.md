@@ -5,7 +5,15 @@
 - 1x Analista DevOps / Suporte
 - 2x Desenvolvedor(a) Backend
 - 1x Desenvolvedor(a) Frontend
-- 1x Desenvolvedor(a) Mobile
+
+## Requisitos Mínimos
+
+- Ter, no mínimo, 2+ anos de experiência comprovada (Profissional ou Acadêmica) 
+- Noções fortes de lógica, raciocínio rápido e foco
+- Ótima comunicação
+- Entregar mais do que é esperado
+- Trabalho em equipe com confiança 
+- Disponibilidade para morar em Recife / PE
 
 ## Quem somos?
 
