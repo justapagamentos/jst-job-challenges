@@ -4,7 +4,7 @@ Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end p
 
 ## Descrição
 
-Criar uma Single Page Application (SPA) de um dashboard com gráficos (ChartJS, ApexCharts, D3, etc.) e uma tabela para a exibição de dados (realizar requisições HTTP para exibir os dados na tabela [Public Apis](https://github.com/public-apis/public-apis)).
+Criar uma Single Page Application (SPA) de um dashboard com gráficos (ChartJS, ApexCharts, D3, etc.) e uma tabela para a exibição de dados (realizar requisições HTTP para exibir os dados na tabela, pode usar o [Public Apis](https://github.com/public-apis/public-apis)).
 
 Você deve fazer um fork do projeto e deixar publico para que possamos analisar commits e o processo de desenvolvimento.
 
@@ -30,10 +30,6 @@ Entre os critérios de avaliação estão:
 
 ### Links Úteis
 
-- [Design Patterns](https://github.com/beatrizacbs/java-design-patterns-pocs)
 - [GitFlow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
-- [MVVM](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b), [MVI](https://medium.com/mindorks/mvi-a-reactive-architecture-pattern-45c6f5096ab7), [MVC](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6), [MVP](https://medium.com/cr8resume/make-you-hand-dirty-with-mvp-model-view-presenter-eab5b5c16e42)
-- [Teste](https://developer.android.com/training/testing/fundamentals), [Junit](https://medium.com/grtech-student-blog/getting-started-with-junit-92ab1ab91c93), [Espresso](https://developer.android.com/training/testing/espresso)
-- [Dagger2](https://codingwithmitch.com/courses/dagger22-android/)
 - [Design de aplicações](https://material.io/design/)
 - [Clean Code](https://simpleprogrammer.com/clean-code-principles-better-programmer/)
