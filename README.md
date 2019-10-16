@@ -2,18 +2,19 @@
 
 ## Vagas Disponíveis
 
-- 1x Analista DevOps / Suporte
 - 2x Desenvolvedor(a) Backend
 - 1x Desenvolvedor(a) Frontend
+- 1x Desenvolvedor(a) ou Analista com foco em DevOps
 
 ## Requisitos Mínimos
 
-- Ter, no mínimo, 2+ anos de experiência comprovada (Profissional ou Acadêmica) 
+- Ter, no mínimo, 2+ anos de experiência comprovada (Profissional ou Acadêmica)
 - Noções fortes de lógica, raciocínio rápido e foco
 - Ótima comunicação
 - Entregar mais do que é esperado
-- Trabalho em equipe com confiança 
+- Trabalho em equipe com confiança
 - Disponibilidade para morar em Recife / PE
+  - Não fazemos trabalhos remotos!
 
 ## Quem somos?
 
@@ -38,7 +39,8 @@ Toda a equipe de Tecnologia da Informação (TI) fica lá em Recife - Pernambuco
 
 ## Como funcionam os desafios?
 
-Você deve realizar um Fork deste repositório e realizar todo o desenvolvimento na pasta do desafio que irá se candidatar.
-Vamos analisar todo o seu processo de desenvolvimento desde análise de código, versionamento, documentação e boas práticas!
+Você deve enviar um e-mail para it-recife@justa.com.vc avisando que você tem a intenção de concorrer para uma das vagas disponíveis junto com o seu CV ou LinkedIn e uma carta apresentação falando mais sobre você, suas experiências e seus hobbies.
 
-Sinta-se à vontade para tirar dúvidas com os **TechnoJustos** ou mandar sugestões através do e-mail: [it-recife@justa.com.vc](mailto:it-recife@justa.com.vc)
+Depois você deve realizar um Fork deste repositório e realizar todo o desenvolvimento na pasta do desafio que irá se candidatar. Vamos analisar todo o seu processo de desenvolvimento desde análise de código, versionamento, documentação e boas práticas!
+
+Sinta-se à vontade para tirar dúvidas com os **TechnoJustos** sempre que quiser!

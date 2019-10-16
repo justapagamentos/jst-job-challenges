@@ -1,4 +1,4 @@
-# Desafio Front-End Developer Justa
+# Desafio @ Justa Front-end
 
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
 
