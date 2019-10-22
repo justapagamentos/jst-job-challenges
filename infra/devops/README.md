@@ -10,8 +10,8 @@ O deploy da aplicação deve ser realizado na mesma máquina do Jenkins, o Nginx
 
 - O deploy da aplicação deverá ser realizado levando em consideração a branch Master;
 - Instalar/Configurar o Nginx como proxy reverso para os domínios abaixo:
-  - jenkins-devops.justa.com.vc (Subdomínio para o Jenkins)
-  - devops.justa.com.vc (Subdomínio para a aplicação Golang)
+  - **jenkins-devops.justa.com.vc** (Subdomínio para o Jenkins)
+  - **devops.justa.com.vc** (Subdomínio para a aplicação Golang)
 - Gerar certificado SSL para os domínios citados acima.
 
 ### Requisitos Diferenciais
