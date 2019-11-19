@@ -3,7 +3,6 @@
 ## Vagas Disponíveis
 
 - 2x Desenvolvedor(a) Backend
-- 1x Desenvolvedor(a) Frontend
 - 1x Desenvolvedor(a) ou Analista com foco em DevOps
 
 ## Requisitos Mínimos
