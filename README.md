@@ -2,9 +2,12 @@
 
 ## Vagas Disponíveis
 
-- 2x Desenvolvedor(a) Backend
-- 1x Desenvolvedor(a) Frontend
-- 1x Desenvolvedor(a) ou Analista com foco em DevOps
+- 3x Desenvolvedor(a) Backend
+- 2x Desenvolvedor(a) Frontend
+- 1x Analista de Dados
+- 1x Designer Gráfico e Produtos
+
+Maiores detalhes em: https://jobs.kenoby.com/justa
 
 ## Requisitos Mínimos
 
