@@ -4,29 +4,31 @@ Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end p
 
 ## Descrição
 
-Criar uma Single Page Application (SPA) de um dashboard com gráficos (ChartJS, ApexCharts, D3, etc.) e uma tabela para a exibição de dados (realizar requisições HTTP para exibir os dados na tabela, pode usar o [Public Apis](https://github.com/public-apis/public-apis)).
+Criar uma Single Page Application (SPA) de um dashboard com gráficos (ChartJS, ApexCharts, D3, etc.), tabela para a exibição de dados (realizar requisições HTTP para exibir os dados na tabela, pode usar o [Public Apis](https://github.com/public-apis/public-apis)).
 
 Você deve fazer um fork do projeto e deixar publico para que possamos analisar commits e o processo de desenvolvimento.
 
 Links com conteúdo para alguns dos temas citados serão fornecidos no fim da descrição do desafio.
 
-### Requisitos
+### Requisitos mandatórios
 
-- Algum framework/biblioteca, como React, Vue, Angular 2+ ou JavaScript Vanilla.
+- Uso Algum framework/biblioteca, como React, Vue, Angular 2+ ou JavaScript Vanilla.
 - Biblioteca para requisições HTTP (ex.: Axios), ou Fetch API.
 - Algum pré-processador CSS, como SASS, LESS, ou algum outro.
-- Ser responsivo
-- Usar algum linter para o JavaScript/TypeScript (ESLint, TSLint).
+- Ser responsivo.
+- Usar algum linter para o JavaScript/TypeScript (ESLint, TSLint) e Prettier.
+- Deploy da aplicação desenvolvida.
 
 ### Avaliação
 
 Entre os critérios de avaliação estão:
 
-- Usabilidade
-- Código limpo e organização
-- Documentação de código
-- Documentação do projeto (readme)
-- Performance
+- Usabilidade da aplicação.
+- Código limpo e organização.
+- Documentação de código.
+- Documentação do projeto (readme).
+- Performance.
+- Testes unitários (Jest, Testing Library, Karma ou Jasmine)
 
 ### Links Úteis
 
