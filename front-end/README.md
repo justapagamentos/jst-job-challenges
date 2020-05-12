@@ -28,7 +28,7 @@ Entre os critérios de avaliação estão:
 - Documentação de código.
 - Documentação do projeto (readme).
 - Performance.
-- Testes unitários (Jest, Testing Library, Karma, Jasmine ou E2E com Cypress)
+- Testes (Jest, Testing Library, Karma, Jasmine ou E2E com Cypress)
 
 ### Links Úteis
 
