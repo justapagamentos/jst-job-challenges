@@ -2,10 +2,10 @@
 
 ## Vagas Disponíveis
 
-- 3x Desenvolvedor(a) Backend
+- 5x Desenvolvedor(a) Backend
 - 2x Desenvolvedor(a) Frontend
-- 1x Analista de Dados
-- 1x Designer Gráfico e Produtos
+- 1x Analista de Banco de Dados (DBA)
+- 1x DevOps
 
 Maiores detalhes em: https://jobs.kenoby.com/justa
 
