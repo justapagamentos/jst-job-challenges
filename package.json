@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
+    "node-sass": "^4.14.1",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -20,8 +21,13 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": ["react-app", "plugin:jsx-a11y/recommended"],
-    "plugins": ["jsx-a11y"]
+    "extends": [
+      "react-app",
+      "plugin:jsx-a11y/recommended"
+    ],
+    "plugins": [
+      "jsx-a11y"
+    ]
   },
   "husky": {
     "hooks": {
