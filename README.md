@@ -2,22 +2,39 @@
 
 Uma SPA para exibição de dados.
 
+## Informações Gerais
+
+- (Wiki)[https://github.com/dxxglas/jst-job-challenges/wiki]
+- (Kanban)[https://github.com/dxxglas/jst-job-challenges/projects/1]
+
+## Boas Práticas
+
+- As branchs desse repositório devem seguir esse modelo:
+    - `master`: produção
+    - `develop`: desenvolvimento
+    - `feature-issue`: issues em desenvolvimento
+    - `bugfix-issue`: issues de ajuste e solução de erros
+
+- Os commits devem ser realizados em português e seguir o modelo:
+    - **feature-issue** + : + descrição, ou seja: `feature-issue: descrição`
+
 ## Para executar esse projeto
 
 1. Clone este repositório.
-3. Execute o comando `$ npm install && npm start`
+2. Execute o comando `$ npm install` seguido por `$ npm start`
+3. O projeto será exibido em `http://localhost:3000`
 
 ## Para criar Pull Requests
 
-1. Na sua `branch-filha`, a que se deseja unir com a principal, execute `$ git push` para atualizá-la no repositório remoto.
+1. Na **branch-filha**, a que se deseja unir com a branch principal, execute `$ git push` para atualizá-la no repositório remoto.
 2. Execute `$ git checkout branch-principal` e em seguida `$ git pull` para atualizar a **branch principal** no repositório local.
-3. Execute `$ git checkout branch-filha` e `$ git pull` para confirmar que a **branch filha** está atualizada.
-4. Execute `$ git rebase branch-principal` para iniciar o **rebase**.
-5. If there is a difference:
-    1. Open *VS Code* to make adjustments
-    2. Run `$ git add .` to add changes
-    3. Check file changes with `$ git status`
-    4. Run `$ git rebase --continue` to continue the rebase
-    5. Repeat *step five* until the changes no longer exist
-6. Run `$ git push` to update remote repository with rebase changes
-7. Open `Pull Request` on GitHub
+3. Execute `$ git checkout branch-filha` e em seguida `$ git pull` para confirmar que a **branch filha** está atualizada no repositório local.
+4. Na **branch filha**, execute `$ git rebase branch-principal` para iniciar o **rebase**.
+5. Se existirem conflitos:
+    1. Abra o *VS Code* para checar os conflitos e realizar os ajustes
+    2. Execute `$ git add .` para *adicionar* as mudanças
+    3. Confirme os arquivos modificados com `$ git status`
+    4. Execute `$ git rebase --continue` para continuar o rebase
+    5. Caso existam novos conflitos, repita os passos anteriores
+6. Execute `$ git push` para atualizar o repositório remoto com as mudanças do rebase
+7. Abra o `Pull Request` da **branch filha** para a **branch principal**
