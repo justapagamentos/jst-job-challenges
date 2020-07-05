@@ -1,6 +1,6 @@
-# Data App
+# Play.s
 
-Criação de uma Single Page Application (SPA) para um dashboard com gráficos e tabela para a exibição de dados.
+Projeto criado para descobrir quais os estilos musicais de playlist do Spotify.
 
 ## Informações Gerais
 
