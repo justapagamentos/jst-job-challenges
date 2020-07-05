@@ -1,11 +1,11 @@
 # Data App
 
-Uma SPA para exibição de dados.
+Criação de uma Single Page Application (SPA) para um dashboard com gráficos e tabela para a exibição de dados.
 
 ## Informações Gerais
 
-- (Wiki)[https://github.com/dxxglas/jst-job-challenges/wiki]
-- (Kanban)[https://github.com/dxxglas/jst-job-challenges/projects/1]
+- [Wiki](https://github.com/dxxglas/jst-job-challenges/wiki)
+- [Kanban](https://github.com/dxxglas/jst-job-challenges/projects/1)
 
 ## Boas Práticas
 
