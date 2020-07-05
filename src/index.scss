@@ -1,7 +1,7 @@
 $font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
   "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 
-// Colors
+// Default Colors
 $bg-color: #f2f2f2;
 $bg-color-dark: #ebeced;
 $font-color: #37352f;
@@ -11,6 +11,12 @@ $green: #3ed598;
 $yellow: #ffc542;
 $purple: #755fe2;
 $orange: #ff974a;
+
+// Responsive Breakpoints
+$extra-large: 1200px;
+$large: 992px;
+$medium: 768px;
+$small: 576px;
 
 body {
   margin: 0;
