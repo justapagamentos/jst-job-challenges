@@ -1,8 +1,22 @@
+$font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+// Colors
+$bg-color: #f2f2f2;
+$bg-color-dark: #ebeced;
+$font-color: #37352f;
+$font-color-light: #575757;
+$red: #ff464f;
+$green: #3ed598;
+$yellow: #ffc542;
+$purple: #755fe2;
+$orange: #ff974a;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: $font-stack;
+  color: $font-color;
+  background-color: $bg-color;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
