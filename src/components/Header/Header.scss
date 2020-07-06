@@ -1,2 +1,40 @@
 // SCSS base
 @import "../../index.scss";
+
+.Header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 1em;
+
+  .hTitle {
+    width: 65vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    font-weight: bold;
+    font-size: 1.5em;
+
+    img {
+      width: 1.8em;
+    }
+  }
+
+  .hSubtitle {
+    width: 65vw;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+    margin-top: -2.5em;
+
+    h3 {
+      font-weight: 500;
+    }
+  }
+}
