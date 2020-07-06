@@ -1,2 +1,50 @@
 // SCSS base
 @import "../../index.scss";
+
+.SearchBar {
+  width: 100vw;
+  height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .sBox {
+    width: 65vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    input {
+      width: 90%;
+      margin: auto;
+      padding: 20px 30px 20px 30px;
+      border: none;
+      border-radius: 25px 0px 0px 25px;
+
+      background-color: $bg-color-dark;
+
+      font-weight: bold;
+      font-size: 1em;
+      color: $font-color-light;
+    }
+
+    button {
+      width: 10%;
+      margin: auto;
+      padding: 15px 15px 15px 0px;
+      border: none;
+      border-radius: 0px 25px 25px 0px;
+
+      background-color: $bg-color-dark;
+
+      font-weight: bold;
+      font-size: 1em;
+      color: $font-color-light;
+
+      img {
+        width: 1.5em;
+      }
+    }
+  }
+}
