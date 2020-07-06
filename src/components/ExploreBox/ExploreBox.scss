@@ -1,2 +1,20 @@
 // SCSS base
 @import "../../index.scss";
+
+.ExploreBox {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .ExploreContainer {
+    width: 65vw;
+    h3 {
+      font-weight: 500;
+    }
+
+    .cardsBox {
+    }
+  }
+}
