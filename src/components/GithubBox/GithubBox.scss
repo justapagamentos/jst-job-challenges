@@ -1,2 +1,48 @@
 // SCSS base
 @import "../../index.scss";
+
+.GithubBox {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .GithubContainer {
+    width: 65vw;
+    display: flex;
+    flex-direction: column;
+
+    h3 {
+      font-weight: 500;
+    }
+
+    .gitLink {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+
+      margin: 20px 15px 40px 15px;
+
+      .gitIcon {
+        width: 60px;
+        height: 60px;
+        border-radius: 20px;
+        background-color: $orange;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+      }
+
+      a {
+        text-decoration: none;
+        color: $font-color;
+        font-weight: 500;
+        font-size: 16px;
+        margin-left: 20px;
+      }
+    }
+  }
+}
