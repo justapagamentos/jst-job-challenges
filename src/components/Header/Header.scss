@@ -8,7 +8,26 @@
   justify-content: center;
   align-items: center;
 
-  margin-top: 1em;
+  .hBack {
+    width: 65vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    font-weight: 450;
+    font-size: 1em;
+    color: $font-color-light;
+
+    margin-top: 3em;
+
+    img {
+      width: 0.35em;
+    }
+
+    span {
+      margin-left: 12px;
+    }
+  }
 
   .hTitle {
     width: 65vw;
@@ -19,6 +38,10 @@
 
     font-weight: bold;
     font-size: 1.5em;
+
+    h1 {
+      margin-top: 0.1em;
+    }
 
     img {
       width: 1.8em;
