@@ -10,7 +10,7 @@ Projeto criado para descobrir quais os estilos musicais de playlist do Spotify.
 ## Boas Práticas
 
 - As branchs desse repositório devem seguir esse modelo:
-    - `master`: produção
+    - `main`: produção
     - `develop`: desenvolvimento
     - `feature-issue`: issues em desenvolvimento
     - `bugfix-issue`: issues de ajuste e solução de erros
