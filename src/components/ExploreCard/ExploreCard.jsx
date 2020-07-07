@@ -16,7 +16,10 @@ class ExploreCard extends Component {
     return (
       <div className={`ExploreCard ${this.state.color}`}>
         <h5>{this.state.title}</h5>
-        <img src={this.state.image} />
+        <img
+          src={require(`../../assets/${this.state.image}.svg`)}
+          alt={`icon-${this.state.image}`}
+        />
       </div>
     );
   }
@@ -24,7 +27,7 @@ class ExploreCard extends Component {
 
 ExploreCard.defaultProps = {
   title: "Em breve novidades...",
-  image: "../../assets/bird.svg",
+  image: "bird",
   color: "red",
 };
 
