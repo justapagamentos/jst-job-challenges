@@ -1,10 +1,6 @@
 import React, { Component } from "react";
 import ExploreCard from "../ExploreCard/ExploreCard";
 
-import bird from "../../assets/bird.svg";
-import sun from "../../assets/sun.svg";
-import ghost from "../../assets/ghost.svg";
-import airplane from "../../assets/airplane.svg";
 import "./ExploreBox.scss";
 
 class ExploreBox extends Component {
@@ -16,18 +12,18 @@ class ExploreBox extends Component {
           <div className="cardsBox">
             <ExploreCard
               title="Conheça novas playlists"
-              image={bird}
+              image="bird"
               color="red"
             />
-            <ExploreCard title="Acorde com música" image={sun} color="green" />
+            <ExploreCard title="Acorde com música" image="sun" color="green" />
             <ExploreCard
               title="Últimos lançamentos"
-              image={ghost}
+              image="ghost"
               color="yellow"
             />
             <ExploreCard
               title="Músicas para viajar"
-              image={airplane}
+              image="airplane"
               color="purple"
             />
           </div>
