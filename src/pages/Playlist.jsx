@@ -8,7 +8,7 @@ class Playlist extends Component {
   render() {
     return (
       <div className="Playlist">
-        <Header />
+        <Header title="Nome da Playlist" subtitle="40 músicas" />
         <GraphicBox />
         <TableBox />
       </div>

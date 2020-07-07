@@ -9,7 +9,10 @@ class Home extends Component {
   render() {
     return (
       <div className="Home">
-        <Header />
+        <Header
+          title="Play.s"
+          subtitle="Descubra o estilo musical das suas playlists favoritas"
+        />
         <SearchBar />
         <ExploreBox />
         <GithubBox />

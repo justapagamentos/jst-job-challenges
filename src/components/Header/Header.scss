@@ -1,6 +1,16 @@
 // SCSS base
 @import "../../index.scss";
 
+// Pages
+.Home .Header .hBack {
+  visibility: hidden;
+}
+
+.Playlist .Header .hBack {
+  visibility: visible;
+}
+
+// Component
 .Header {
   width: 100%;
   display: flex;
@@ -26,6 +36,12 @@
 
     span {
       margin-left: 12px;
+    }
+
+    a {
+      display: flex;
+      text-decoration: none;
+      color: $font-color-light;
     }
   }
 
