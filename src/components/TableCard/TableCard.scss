@@ -1,0 +1,53 @@
+// SCSS base
+@import "../../index.scss";
+
+.TableCard {
+  width: 952px;
+  height: 65px;
+  background-color: $bg-color-dark;
+  border-radius: 12px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  .cardIcon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 65px;
+    height: 65px;
+
+    position: relative;
+
+    .imgIcon {
+      position: absolute;
+    }
+
+    .imgOutline {
+      position: absolute;
+      right: 0px;
+    }
+  }
+
+  .genreInfos {
+    width: 887px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    .genreStyle {
+      padding: 20px;
+      font-size: 0.9em;
+    }
+
+    .genreAmount {
+      padding: 20px;
+      font-size: 1em;
+      font-weight: 600;
+    }
+  }
+}

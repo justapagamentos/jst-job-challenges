@@ -6,7 +6,7 @@ class GraphicBox extends Component {
   render() {
     return (
       <div className="GraphicBox">
-        <h1>GraphicBox</h1>
+        <div className="gStructure"></div>
       </div>
     );
   }
