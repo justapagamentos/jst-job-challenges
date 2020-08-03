@@ -2,7 +2,7 @@
 
 ## Vagas Disponíveis
 
-- 5x Desenvolvedor(a) Backend
+- 2x Desenvolvedor(a) Backend
 - 2x Desenvolvedor(a) Frontend
 - 1x Analista de Banco de Dados (DBA)
 - 1x DevOps
