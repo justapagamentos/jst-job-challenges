@@ -46,4 +46,4 @@ Criar uma página com uma listagem de itens de sua escolha e ao selecionar um it
 - Deploy da aplicação;
 - Usabilidade do sistema;
 - [OPCIONAL] Testes de integração (Cypress);
-- Toda funcionalida extra contará positivamente, NOS SURPREENDA!
+- Toda funcionalidade extra contará positivamente, NOS SURPREENDA!
