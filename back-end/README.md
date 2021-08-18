@@ -18,6 +18,7 @@ Links com conteúdo para alguns dos temas citados serão fornecidos no fim da de
   - CRUD de usuários
   - Mais quatro rotas que tenham sentido com a proposta da API
 - Consumir **pelo menos DUAS** APIs deste repositório: [Public Apis](https://github.com/public-apis/public-apis)
+- **Testes** unitários e/ou de integração
 
 ### Requisitos Diferenciais
 
@@ -30,7 +31,6 @@ Links com conteúdo para alguns dos temas citados serão fornecidos no fim da de
 - Utilizar práticas de **Clean Code**
 - Documentar utilizando **JavaDoc**
 - Utilizar o **Swagger**
-- **Testes** unitários e/ou de integração
 - Aplicação do **GitFlow** (não é necessária a utilização da CLI do gitflow, somente a utilização do conceito)
 
 ### Links Úteis
