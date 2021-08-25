@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Você precisa desenvolver um **REST API**, que deverá ser implementado em **Java, Scala, Kotlin ou GO**.
+Você precisa desenvolver um **REST API**, que deverá ser implementado em **Java, Scala, Kotlin, Node ou GO**.
 O conteúdo da aplicação e o framework que será utilizado é de escolha do candidato, sendo necessário apenas que os requisitos abaixo sejam preenchidos.
 
 Você deve fazer um **fork do projeto** e deixa-lo **público**, para que possamos analisar commits e seu processo de desenvolvimento.
@@ -11,7 +11,6 @@ Links com conteúdo para alguns dos temas citados serão fornecidos no fim da de
 
 ### Requisistos Obrigatórios e Inegociáveis
 
-- Utilizar arquitetura **MVC**
 - Utilizar banco de dados relacional ou NoSQL
 - Rotinas mínimas:
   - Autenticação de usuários
