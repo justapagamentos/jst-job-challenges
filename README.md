@@ -2,16 +2,15 @@
 
 ## Vagas Disponíveis
 
-Maiores detalhes em: https://jobs.kenoby.com/justa
+Maiores detalhes em: https://jobs.kenoby.com/justa ou https://justa.com.vc/gentejusta-tech/
 
 ## Requisitos Mínimos
 
-- Ter, no mínimo, 2+ anos de experiência comprovada (Profissional ou Acadêmica)
 - Noções fortes de lógica, raciocínio rápido e foco
 - Ótima comunicação
 - Entregar mais do que é esperado
 - Trabalho em equipe com confiança
-- Disponibilidade para morar em Recife / PE
+- Disponibilidade para morar em Recife / PE ou Alphaville / SP
   - Não fazemos trabalhos remotos!
 
 ## Quem somos?
@@ -31,14 +30,12 @@ Toda a equipe de Tecnologia da Informação (TI) fica em Recife - Pernambuco.
 
 ### Filial - Alphaville (SP)
 
-Toda a nossa equipe operacional, ajuda, QA, devops, comercial e logística fica em Alphaville - São Paulo.
+Uma parte da equipe de Tecnologia e toda equipe operacional, ajuda, QA, devops, comercial e logística fica em Alphaville - São Paulo.
 
 [Alameda Xingú, 350, Empresarial iTower Iguatemi - Alphaville Industrial, Barueri / SP](https://www.google.com/maps/place/JUSTA+COM+VC/@-23.4977729,-46.8307726,21z/data=!4m5!3m4!1s0x0:0xdb55bd5c09eb9664!8m2!3d-23.5049645!4d-46.849015)
 
 ## Como funcionam os desafios?
 
-Você deve enviar um e-mail para it-recife@justa.com.vc avisando que você tem a intenção de concorrer para uma das vagas disponíveis junto com o seu CV ou LinkedIn e uma carta apresentação falando mais sobre você, suas experiências e seus hobbies.
+Você deve se inscrever na vaga pelo Kenoby para fazer seu teste de Fit Cultural - i.e. https://jobs.kenoby.com/justa - e depois participar do processo seletivo onde entraremos em contato com você.
 
-Depois você deve realizar um Fork deste repositório e realizar todo o desenvolvimento na pasta do desafio que irá se candidatar. Vamos analisar todo o seu processo de desenvolvimento desde análise de código, versionamento, documentação e boas práticas!
-
-Sinta-se à vontade para tirar dúvidas com **Gente Justa** sempre que quiser!
+Sinta-se à vontade para tirar dúvidas com **Gente Justa** (tech@justa.com.vc) sempre que quiser!
