@@ -10,8 +10,8 @@ Deverá ser automatizado a compra de um produto de eCommerce, será utilizado a 
 No teste deve conter três cenários de testes:
 
 * 1 - Eu, como Herói, desejo realizar a compra de produto e alterar o endereço de entrega;
-* 2 - Eu, como Herói, desejo realizar a compra de produto alterando o endreço de cobrança;
-* 3 - Eu, como Herói, desejo realizar a compra e efeturar o pagamento com cheque.
+* 2 - Eu, como Herói, desejo realizar a compra de produto alterando o endereço de cobrança;
+* 3 - Eu, como Herói, desejo realizar a compra e efetuar o pagamento com cheque.
 
 ## Requisitos
 
