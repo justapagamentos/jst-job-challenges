@@ -2,8 +2,7 @@
 
 ## Descrição
 
-Consiste em desenvolver um **app nativo iOS ou Android**, dessa forma, deverá ser implementado em **Swift, Kotlin ou Java**.
-O conteúdo da aplicação é de escolha do candidato, sendo necessário apenas que os requisitos abaixo sejam preenchidos.
+Consiste em desenvolver um **app iOS ou Android com desenvolvimento nativo ou usando Flutter**, dessa forma, deverá ser implementado em **Swift, Kotlin, Java ou Dart**. O conteúdo da aplicação é de escolha do candidato, sendo necessário apenas que os requisitos abaixo sejam preenchidos.
 
 Você deve fazer um **fork do projeto** e deixar **publico** para que possamos analisar commits e processo de desenvolvimento.
 
