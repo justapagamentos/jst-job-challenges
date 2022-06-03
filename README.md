@@ -2,7 +2,7 @@
 
 ## Vagas Disponíveis
 
-Maiores detalhes em: https://jobs.kenoby.com/justa ou https://justa.com.vc/gentejusta-tech/
+Maiores detalhes em: https://justa.com.vc/tech
 
 ## Requisitos Mínimos
 
@@ -24,18 +24,18 @@ Muito prazer, **somos a JUSTA**!
 
 ### Filial - Recife (PE)
 
-Toda a equipe de Tecnologia da Informação (TI) fica em Recife - Pernambuco.
+Boa parte da equipe de Tecnologia (TI) e Produtos fica em Recife - Pernambuco.
 
 [Avenida Antônio de Góes, 742, Empresarial Jopin - Pina, Recife / PE](https://goo.gl/maps/aEujw84xMokDW5Vv7)
 
 ### Filial - Alphaville (SP)
 
-Uma parte da equipe de Tecnologia e toda equipe operacional, ajuda, QA, devops, comercial e logística fica em Alphaville - São Paulo.
+Outra parte da equipe de Tecnologia, Produtos e toda equipe Operacional, Comercial, Financeira e Logística fica em Alphaville - São Paulo.
 
 [Alameda Xingú, 350, Empresarial iTower Iguatemi - Alphaville Industrial, Barueri / SP](https://www.google.com/maps/place/JUSTA+COM+VC/@-23.4977729,-46.8307726,21z/data=!4m5!3m4!1s0x0:0xdb55bd5c09eb9664!8m2!3d-23.5049645!4d-46.849015)
 
 ## Como funcionam os desafios?
 
-Você deve se inscrever na vaga pelo Kenoby para fazer seu teste de Fit Cultural - i.e. https://jobs.kenoby.com/justa - e depois participar do processo seletivo onde entraremos em contato com você.
+Você deve se inscrever na vaga pela Gulpy para fazer seu teste de Fit Cultural - i.e. https://justa.com.vc/tech - e depois participar do processo seletivo onde entraremos em contato com você.
 
 Sinta-se à vontade para tirar dúvidas com **Gente Justa** (tech@justa.com.vc) sempre que quiser!
