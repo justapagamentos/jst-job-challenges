@@ -25,7 +25,6 @@ Links com conteúdo para alguns dos temas citados serão fornecidos no fim da de
 - Boas práticas com [**Design Patterns**](https://github.com/beatrizacbs/java-design-patterns-pocs)
 - Utilizar práticas de **Clean Code**
 - Documentar utilizando **JavaDoc e comentário limpo**
-- Utilizar Lib Open-Source [**Droidness**](https://github.com/justapagamentos/droidness) para implementação de **arquitetura MVVM**
 - **Testes** unitários e/ou de integração
 - Aplicação do **GitFlow** (não é necessária a utilização da CLI do gitflow, somente a utilização do conceito)
 - **Estética da aplicação**
