@@ -12,7 +12,7 @@ Você precisará desenvolver todos os 4 desafios de lógica de programação pro
 
 ## Desafios: 
 
-- [Encontre as interseções](#encontre-as-intersercoes)
+- [Encontre as interseções](#encontre-as-interseções)
 - [Palavra mais longa](#palavra-mais-longa)
 - [Calcule o Fatorial](#calcule-o-fatorial)
 - [O peso da última pedra](#o-peso-da-última-pedra)
