@@ -6,8 +6,9 @@ Você precisará desenvolver todos os 4 desafios de lógica de programação pro
 
 **Dicas adicionais:**
 
-- Se possível, comente seu código para que possamos entender cada etapa da sua lógica de resolução do problema.
-- Mesmo que não tenha finalizado os desafios por completo no tempo proposto, é importante que você nos envie para que possamos te ajudar e passar o feedback.
+- Se possível, comente seu código para que possamos entender cada etapa da sua lógica de resolução do problema;
+- Mesmo que não tenha finalizado os desafios por completo no tempo proposto, é importante que você nos envie para que possamos te ajudar e passar o feedback;
+- Adicione todas as informações necessarias para executar os testes no README do projeto;
 - Boa sorte e #TamoJusto!
 
 ## Desafios: 
